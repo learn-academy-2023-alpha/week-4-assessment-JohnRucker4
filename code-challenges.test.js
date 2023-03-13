@@ -123,7 +123,7 @@ describe("newDataArray", () => {
 
 // STRETCH
 
-// Use newDataArray and pass arrays as a spread operator.  Since the arrays are seperate, we'll need to bring them all together using .flat (combines all of the arrays).  Using Set in Javascript will store values in an object (It won't be an array, however.) We can then pass arrays.flat in the Set using the spread operator.
+// Use newDataArray and pass arrays as a spread operator.  Since the arrays are seperate, we'll need to bring them all together using .flat (combines all of the arrays).  Using Set in Javascript will store values in an object (It won't be an array, however.) We can then pass arrays.flat in the Set using the spread operator
 const newDataArray = (...arrays) => [...new Set(arrays.flat())]
 
 // *Feeback request* The Stretch was explained to me but I still don't fully understand it.  More clarification needed, please and thank you!
