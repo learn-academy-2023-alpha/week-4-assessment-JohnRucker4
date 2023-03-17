@@ -62,4 +62,4 @@ CREATE - creates new hases, READ - return data in hash, UPDATE - add content to 
 Software development that focuses on an iterative development cycle where the emphasis is placed on writing test cases before the actual feature or function is written
 
 5. HTTP:
-The Hypertext Transfer Protocol is an application protocol for distributed, collaborative, hypermedia information systems that allows users to communicate data on the World Wide Web.
+The Hypertext Transfer Protocol is an application protocol for distributed, collaborative, hypermedia information systems that allows users to communicate data on the World Wide Web
